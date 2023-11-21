@@ -5,6 +5,7 @@ packages:
     dependency: transitive
     description:
       name: archive
+      sha256: f06332efd7b0886705a929c5d3b52cda4d6d0979627c1dbe9a18fc24becf50ae
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.0.13"
@@ -12,6 +13,7 @@ packages:
     dependency: transitive
     description:
       name: args
+      sha256: "6ba785824030bc97154264652acfd6a2dc699cd85f6def708fb7534d23ef1348"
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.6.0"
@@ -19,13 +21,15 @@ packages:
     dependency: transitive
     description:
       name: async
+      sha256: bfe67ef28df125b7dddcea62755991f807aa39a2492a23e1550161692950bbe0
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "2.4.2"
+    version: "2.10.0"
   barcode:
     dependency: transitive
     description:
       name: barcode
+      sha256: "4cd8c1182fbb5afb2dc3a0f11f3e07e6456593e4431309cc59dec718201477a3"
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.17.1"
@@ -33,6 +37,7 @@ packages:
     dependency: transitive
     description:
       name: bloc
+      sha256: "428a6baaa2d1e05d94e115f8b4f2871282aaed385bfcbc8cfae543b46dbc826b"
       url: "https://pub.dartlang.org"
     source: hosted
     version: "6.1.3"
@@ -40,20 +45,23 @@ packages:
     dependency: transitive
     description:
       name: boolean_selector
+      sha256: "6cfb5af12253eaf2b368f07bacc5a80d1301a071c73360d746b7f2e32d762c66"
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "2.0.0"
+    version: "2.1.1"
   characters:
     dependency: transitive
     description:
       name: characters
+      sha256: e6a326c8af69605aec75ed6c187d06b349707a27fbff8222ca9cc2cff167975c
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.0.0"
+    version: "1.2.1"
   charcode:
     dependency: transitive
     description:
       name: charcode
+      sha256: abac3bd18780f688ff2b93914f7ed2d4e9405835cbed1f09298ef65e278f23a2
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.1.3"
@@ -61,13 +69,15 @@ packages:
     dependency: transitive
     description:
       name: clock
+      sha256: cb6d7f03e1de671e34607e909a7213e31d7752be4fb66a86d29fe1eb14bfb5cf
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.0.1"
+    version: "1.1.1"
   cloud_firestore:
     dependency: "direct main"
     description:
       name: cloud_firestore
+      sha256: d9b74f6f08f4e1a22c4872b70007cacf09eaed105795ab87a7dc4effe52130e1
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.16.0+1"
@@ -75,6 +85,7 @@ packages:
     dependency: transitive
     description:
       name: cloud_firestore_platform_interface
+      sha256: "03578c10afc6d3d60c0585f278cb697ffb7d32ebec539859e492ab88b47ef5af"
       url: "https://pub.dartlang.org"
     source: hosted
     version: "3.0.2"
@@ -82,6 +93,7 @@ packages:
     dependency: transitive
     description:
       name: cloud_firestore_web
+      sha256: bd5283599cc9944d587aa42913b35ade1e1535cc8eb70df159fbc416a8ed6c30
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.3.0+2"
@@ -89,13 +101,15 @@ packages:
     dependency: transitive
     description:
       name: collection
+      sha256: cfc915e6923fe5ce6e153b0723c753045de46de1b4d63771530504004a45fae0
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.14.13"
+    version: "1.17.0"
   convert:
     dependency: transitive
     description:
       name: convert
+      sha256: "3fa83bc417e26f1d55814443a603747d48e3cdf55b2f4fea27dea8e9224dcefd"
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.1.1"
@@ -103,6 +117,7 @@ packages:
     dependency: transitive
     description:
       name: crypto
+      sha256: "3ce628f3c6a7144be6c524dbb20ca5af52fa59c850c587bf5e52cd70ece8e7e8"
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.1.5"
@@ -110,6 +125,7 @@ packages:
     dependency: "direct main"
     description:
       name: cupertino_icons
+      sha256: "518143a923a4c83ddc2fa0bfbbbd750d8e31d21d90ecad21b570ea94df9807b1"
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.0.0"
@@ -117,13 +133,15 @@ packages:
     dependency: transitive
     description:
       name: fake_async
+      sha256: "511392330127add0b769b75a987850d136345d9227c6b94c96a04cf4a391bf78"
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.1.0"
+    version: "1.3.1"
   ffi:
     dependency: transitive
     description:
       name: ffi
+      sha256: "284195c7170e7f11734fb7191d7780e837fca975ea825eb01587830fa978dd95"
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.1.3"
@@ -131,6 +149,7 @@ packages:
     dependency: transitive
     description:
       name: file
+      sha256: "781811e896666e9a728fd85b13129e32d73f05167a5da1891739f4609c6a8d7d"
       url: "https://pub.dartlang.org"
     source: hosted
     version: "5.2.1"
@@ -138,6 +157,7 @@ packages:
     dependency: "direct main"
     description:
       name: firebase_auth
+      sha256: b5744892ac6d5d7e2a9f463e192aad9323cf8bd72ba6ef1cd811d8948519e244
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.20.1"
@@ -145,6 +165,7 @@ packages:
     dependency: transitive
     description:
       name: firebase_auth_platform_interface
+      sha256: "4dfd37e9c3478d0eac8e57acc492bf323b6ce656903e902a5920fd74adcc43ec"
       url: "https://pub.dartlang.org"
     source: hosted
     version: "3.1.0"
@@ -152,6 +173,7 @@ packages:
     dependency: transitive
     description:
       name: firebase_auth_web
+      sha256: "0e43563d638533f60f87c0290e1a4394855b375260aff67158822037ebf74e72"
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.3.3"
@@ -159,6 +181,7 @@ packages:
     dependency: "direct main"
     description:
       name: firebase_core
+      sha256: "7682e4156d0f65644fe834b20f332bb0e3207d9349533b6564ca842f3cf8a4fb"
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.7.0"
@@ -166,6 +189,7 @@ packages:
     dependency: transitive
     description:
       name: firebase_core_platform_interface
+      sha256: "1d0f788341383aa4d663baa5524e011af6f2ca12a85d20eca4184dff430b5917"
       url: "https://pub.dartlang.org"
     source: hosted
     version: "3.0.1"
@@ -173,6 +197,7 @@ packages:
     dependency: transitive
     description:
       name: firebase_core_web
+      sha256: a1469ea3122c4f2274d920f0539754f30e097436d9af3df762727b0a4e55fcf6
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.2.1+3"
@@ -185,6 +210,7 @@ packages:
     dependency: "direct main"
     description:
       name: flutter_bloc
+      sha256: c17fe8dc81e90b84798f80fd3580b28aca58d1a07a1baa3a4bcaabfef3c806ae
       url: "https://pub.dartlang.org"
     source: hosted
     version: "6.1.3"
@@ -192,6 +218,7 @@ packages:
     dependency: "direct main"
     description:
       name: flutter_local_notifications
+      sha256: "7dc16449038ebdd62b831c4a69eeb406ebdcabb09623810691c83cc7af7977bb"
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.5.0+1"
@@ -199,6 +226,7 @@ packages:
     dependency: transitive
     description:
       name: flutter_local_notifications_platform_interface
+      sha256: "7fec7ba6f3db3e53e13da9a530333d615571356a219717a287940aa25bbd7481"
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.0.1"
@@ -216,6 +244,7 @@ packages:
     dependency: "direct main"
     description:
       name: geocoder
+      sha256: bd1cc3e349459b75f8baadfb00eb009b6a5c82f5167bca251e2e2b9c1f06dd0a
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.2.1"
@@ -223,6 +252,7 @@ packages:
     dependency: transitive
     description:
       name: http_parser
+      sha256: "9d2b0626e9e402fc98e6868360da8f256064d6c0b8e4c3edcca5e02fb0b95da9"
       url: "https://pub.dartlang.org"
     source: hosted
     version: "3.1.4"
@@ -230,6 +260,7 @@ packages:
     dependency: transitive
     description:
       name: image
+      sha256: "3ef4d4b6eb16111f24314f6f85a8852ebb5f6f85ae51ed2bca72edc273c16734"
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.1.19"
@@ -237,6 +268,7 @@ packages:
     dependency: transitive
     description:
       name: intl
+      sha256: "4691515bb3f68ebbc4776bc97a84d429bb8e8c141a77b5ab988a4b02adb1747a"
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.16.1"
@@ -244,13 +276,15 @@ packages:
     dependency: transitive
     description:
       name: js
+      sha256: "5528c2f391ededb7775ec1daa69e65a2d61276f7552de2b5f7b8d34ee9fd4ab7"
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.6.2"
+    version: "0.6.5"
   lists:
     dependency: transitive
     description:
       name: lists
+      sha256: "6a7ef462dc13e1be2ad4f2216d1a10fde39632495e4521b81006775eb4413928"
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.1.6"
@@ -258,6 +292,7 @@ packages:
     dependency: "direct main"
     description:
       name: location
+      sha256: "64134f10f904b79029e8d5c2d614e4357d281a25f4261df9479a8c6f155b78d2"
       url: "https://pub.dartlang.org"
     source: hosted
     version: "3.2.4"
@@ -265,6 +300,7 @@ packages:
     dependency: transitive
     description:
       name: location_platform_interface
+      sha256: ae56eb0fd251354bf64eaa58f6422749823cf9048ab7483612035b24f9ba168c
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.1.0"
@@ -272,6 +308,7 @@ packages:
     dependency: transitive
     description:
       name: location_web
+      sha256: "834228abccfc24f76852a205bb45f8b8a89f89fc9b4b8f98adf3ae17debf1527"
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.0.1"
@@ -279,20 +316,31 @@ packages:
     dependency: transitive
     description:
       name: matcher
+      sha256: "16db949ceee371e9b99d22f88fa3a73c4e59fd0afed0bd25fc336eb76c198b72"
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.12.8"
+    version: "0.12.13"
+  material_color_utilities:
+    dependency: transitive
+    description:
+      name: material_color_utilities
+      sha256: d92141dc6fe1dad30722f9aa826c7fbc896d021d792f80678280601aff8cf724
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.2.0"
   meta:
     dependency: transitive
     description:
       name: meta
+      sha256: "6c268b42ed578a53088d834796959e4a1814b5e9e164f147f580a386e5decf42"
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.1.8"
+    version: "1.8.0"
   nanoid:
     dependency: "direct main"
     description:
       name: nanoid
+      sha256: "47a2631fd3489ce7e929d5d706e23b1af6bc11258d846a029a33d0fc7015c13c"
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.1.0"
@@ -300,6 +348,7 @@ packages:
     dependency: transitive
     description:
       name: nested
+      sha256: d3492747c400f5639b9d7d76a20d73b51581de20f8dab0d861d839e5a8aa6be5
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.0.4"
@@ -307,6 +356,7 @@ packages:
     dependency: "direct main"
     description:
       name: open_file
+      sha256: "8cfb515340c7327dd3785e08aeea85c9bcab1ea110c25bd31319b9c7a621eb2b"
       url: "https://pub.dartlang.org"
     source: hosted
     version: "3.0.3"
@@ -314,13 +364,15 @@ packages:
     dependency: transitive
     description:
       name: path
+      sha256: db9d4f58c908a4ba5953fcee2ae317c94889433e5024c27ce74a37f94267945b
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.7.0"
+    version: "1.8.2"
   path_parsing:
     dependency: transitive
     description:
       name: path_parsing
+      sha256: "4e613c811d25f1533c0d05eb2755e21410247b8a13ac7f6cd23c0cecb2ff683d"
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.1.4"
@@ -328,6 +380,7 @@ packages:
     dependency: "direct main"
     description:
       name: path_provider
+      sha256: "90ea926097957ffbcb5381fdd7de76f6d5326fcd4689f07d8d4ee42b4040fa85"
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.6.28"
@@ -335,6 +388,7 @@ packages:
     dependency: transitive
     description:
       name: path_provider_linux
+      sha256: "739b008776d4377ef8945db2d6f42d17ad7a280f0d0cdf961de26a69ea3964e5"
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.0.1+2"
@@ -342,6 +396,7 @@ packages:
     dependency: transitive
     description:
       name: path_provider_macos
+      sha256: "4dd2f608f51cb62c1e76c4434c89cc98c010345d315e79d8cb4f41ebcac3c119"
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.0.4+8"
@@ -349,6 +404,7 @@ packages:
     dependency: transitive
     description:
       name: path_provider_platform_interface
+      sha256: e06b2d369e0eb863cf0c4876d0fb6943846876f7e51b2752059a5c6b05bf5354
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.0.4"
@@ -356,6 +412,7 @@ packages:
     dependency: transitive
     description:
       name: path_provider_windows
+      sha256: aa4e314948959ec26867274fa47ca7af12918e6812375ca0b92e817e1b7834cb
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.0.4+3"
@@ -363,6 +420,7 @@ packages:
     dependency: "direct main"
     description:
       name: pdf
+      sha256: "46cefd2cb180f7370ddf97548cc75febdbcec2b84a507a0aa437225380e37471"
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.13.0"
@@ -370,6 +428,7 @@ packages:
     dependency: "direct main"
     description:
       name: permission
+      sha256: "43a04a07f06fa2bc2d2b4aeb2d16de419e5893abe7b63f979b71c9b11b7df60e"
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.1.7"
@@ -377,6 +436,7 @@ packages:
     dependency: transitive
     description:
       name: petitparser
+      sha256: "6802205ca621e6d2d2fc315d89491a685c33a16bf82875327aab0295afb3ec4f"
       url: "https://pub.dartlang.org"
     source: hosted
     version: "3.0.4"
@@ -384,6 +444,7 @@ packages:
     dependency: transitive
     description:
       name: platform
+      sha256: "2d03e4330ae22fc7fc0dd38c1fc6d0a9dc7ff10d7deea6dbb2583f7e5c053453"
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.2.1"
@@ -391,6 +452,7 @@ packages:
     dependency: transitive
     description:
       name: plugin_platform_interface
+      sha256: c3ebbff365bfb1b5f7b690c9857d2dabea167f35b05eb7586186499b407efb37
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.0.3"
@@ -398,6 +460,7 @@ packages:
     dependency: "direct main"
     description:
       name: printing
+      sha256: "523d1d6632a23791fee1114ef44c47fd8b215fc01cdea94d4fe041c8430410ce"
       url: "https://pub.dartlang.org"
     source: hosted
     version: "3.7.2"
@@ -405,6 +468,7 @@ packages:
     dependency: transitive
     description:
       name: process
+      sha256: "6ae4895f82db61b3011d9a32517bc9f604c28833cfc765e63dbf134758f6290c"
       url: "https://pub.dartlang.org"
     source: hosted
     version: "3.0.13"
@@ -412,6 +476,7 @@ packages:
     dependency: transitive
     description:
       name: provider
+      sha256: af58e866ea76fa7d156ea5e6ffa1c28b52dabff5c87fbdf265f7c6adaa7a741d
       url: "https://pub.dartlang.org"
     source: hosted
     version: "4.3.3"
@@ -419,6 +484,7 @@ packages:
     dependency: transitive
     description:
       name: qr
+      sha256: "0bfe78043e3d590efbb543df3469c58479278c1dccc30381cf12adfd8e89ab4e"
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.3.0"
@@ -426,6 +492,7 @@ packages:
     dependency: transitive
     description:
       name: quiver
+      sha256: e83f7ad1e6375da1400b54eea8793bba804d1731d68c5694490bf9296cd3ca24
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.1.5"
@@ -438,34 +505,39 @@ packages:
     dependency: transitive
     description:
       name: source_span
+      sha256: dd904f795d4b4f3b870833847c461801f6750a9fa8e61ea5ac53f9422b31f250
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.7.0"
+    version: "1.9.1"
   stack_trace:
     dependency: transitive
     description:
       name: stack_trace
+      sha256: c3c7d8edb15bee7f0f74debd4b9c5f3c2ea86766fe4178eb2a18eb30a0bdaed5
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.9.5"
+    version: "1.11.0"
   stream_channel:
     dependency: transitive
     description:
       name: stream_channel
+      sha256: "83615bee9045c1d322bbbd1ba209b7a749c2cbcdcb3fdd1df8eb488b3279c1c8"
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "2.0.0"
+    version: "2.1.1"
   string_scanner:
     dependency: transitive
     description:
       name: string_scanner
+      sha256: "556692adab6cfa87322a115640c11f13cb77b3f076ddcc5d6ae3c20242bedcde"
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.0.5"
+    version: "1.2.0"
   strings:
     dependency: "direct main"
     description:
       name: strings
+      sha256: "96156a1b7b245a74b180fe89d92dc5c9c70d43848b641194217ac4535bb050ed"
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.1.4"
@@ -473,20 +545,23 @@ packages:
     dependency: transitive
     description:
       name: term_glyph
+      sha256: a29248a84fbb7c79282b40b8c72a1209db169a2e0542bce341da992fe1bc7e84
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.1.0"
+    version: "1.2.1"
   test_api:
     dependency: transitive
     description:
       name: test_api
+      sha256: ad540f65f92caa91bf21dfc8ffb8c589d6e4dc0c2267818b4cc2792857706206
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.2.17"
+    version: "0.4.16"
   toast:
     dependency: "direct main"
     description:
       name: toast
+      sha256: bedb96d37030acf9c4c06a7ac2ffd1f1f365e780cda9458c9e24e6a1e1ab6fd9
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.1.5"
@@ -494,6 +569,7 @@ packages:
     dependency: transitive
     description:
       name: typed_data
+      sha256: b41767fd0d6c2473e3ff61a05d3ab55578dae390d0b19bb35d1821e612faace6
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.2.0"
@@ -501,6 +577,7 @@ packages:
     dependency: transitive
     description:
       name: unicode
+      sha256: "6c31772807de48af538ce67cc565fd1e59479b33bd1f964003475dd42ccc0036"
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.2.4"
@@ -508,13 +585,15 @@ packages:
     dependency: transitive
     description:
       name: vector_math
+      sha256: "80b3257d1492ce4d091729e3a67a60407d227c27241d6927be0130c98e741803"
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "2.0.8"
+    version: "2.1.4"
   win32:
     dependency: transitive
     description:
       name: win32
+      sha256: a96e8d78811ab1dfdfbb955f3c3f411f73dab5eb76707d3af13cafab53b412fa
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.7.4+1"
@@ -522,6 +601,7 @@ packages:
     dependency: transitive
     description:
       name: xdg_directories
+      sha256: "3194513f8795cf8924dfa4caa7fc8470d0685c680e1170ddba1c09608078c434"
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.1.0"
@@ -529,9 +609,10 @@ packages:
     dependency: transitive
     description:
       name: xml
+      sha256: "4c4262c7dcf7b66fa8743cdfd37ccac03d6d50d3de4084b1a528de3107540752"
       url: "https://pub.dartlang.org"
     source: hosted
     version: "4.5.1"
 sdks:
   dart: ">=2.9.0-14.0.dev <3.0.0"
-  flutter: ">=1.16.0 <2.0.0"
+  flutter: ">=1.16.0"
